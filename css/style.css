@@ -1,0 +1,37 @@
+body {
+  padding-top: 50px;
+}
+
+#display {
+    height: 50px;
+    background-color: white;
+    color: green;
+    font-size: 2em;
+    padding: 5px;
+    text-align: right;
+    overflow: hidden;
+    margin: 10px;
+}
+
+#calculator {
+    width: 450px;
+    background-color: lightgrey;
+    height: 350px;
+    padding: 20px;
+}
+
+.cbutton {
+    font-size: 16px;
+    width: 70px;
+    margin: 5px;
+    
+}
+
+#equal {
+    width: 320px;
+    background-color: forestgreen;
+}
+
+#clear {
+    background-color: darkred;
+}
